@@ -1,0 +1,64 @@
+/*css file for vertical style*/
+.ffstyle_jp{
+	display		:none;
+}
+
+html {
+	overflow-x	:auto;
+	overflow-y	:auto;
+	height		:100%;
+	width		:100%;
+	margin		:0;	
+	padding		:0;
+	direction	:rtl;
+}
+
+body {
+	font-family	:serif;
+	height		:100%;
+	width		:100%;
+	margin		:0;	
+	padding		:0;
+}
+div.main_txt {
+	font-family		:"@‚l‚r –¾’©",serif;
+	direction		:ltr;
+	-ms-writing-mode	:tb-rl;
+	-webkit-writing-mode	:vertical-rl;
+	line-height		:170%;
+	height			:75%;
+	width			:100%;
+	padding			:5% 0;
+	border-style	:solid none none none;
+	border-width	:1px;
+	border-color	:black;
+	overflow-x		:scroll;
+	overflow-y		:auto;
+}
+h1{
+	text-align	:center;
+	height		:5%;
+	margin		:0;	
+}
+
+h2{
+	text-indent	:0.5em;
+	margin-top	:0;
+	text-align	:left;
+}
+h3{
+	text-indent	:20%;
+	text-align	:left;
+}
+div.menu{
+	padding			:1%;
+	font-size	:80%;
+	text-align	:right;
+}
+hr.border{
+	border-style	:solid solid none none;
+	border-width	:1px;
+	border-color	:black;
+	height		:60%;
+	width		:0;
+}

@@ -1,0 +1,46 @@
+/*css file for FF section*/
+.ffstyle{
+	display		:none;
+}
+body{
+	margin		:4%;
+}
+div.main_txt{
+	line-height	:170%;
+	font-size	:95%;
+	text-align	:left;
+	border-style	:solid none;
+	border-width	:1px;
+	border-color	:black;
+}
+h1{
+	font-weight	:bold;
+	font-size	:200%;
+	text-align	:left;
+}
+
+h2{
+	font-weight	:bold;
+	font-size	:170%;
+	text-align	:center;
+}
+h3{
+	font-weight	:bold;
+	font-size	:140%;
+	text-align	:center;
+}
+div.menu{
+	font-size	:80%;
+	text-align	:right;
+}
+div.date{
+	font-size	:90%;
+	text-align	:right;
+}
+hr.border{
+	border-style	:solid solid none none;
+	border-width	:1px;
+	border-color	:black;
+	height		:0px;
+	width		:70%;
+}
